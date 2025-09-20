@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langgraph
+qdrant-client
+google-cloud-firestore
+openai>=1.30.0
+aiofiles
+python-multipart
